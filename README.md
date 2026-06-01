@@ -62,7 +62,7 @@ This is a fully mechanical, top-down strategy built on Smart Money Concepts (SMC
 - SL must be **≤ 40 pips** — if structure requires a wider stop, skip the trade
 - TP must be **≥ 60 pips** — minimum 1:1.5 RR, targeting the Daily liquidity draw
 - Set SL alert and BE alert **before executing** — no exceptions
-- Size your lot so that the SL equals **1% of your account** (or your defined max risk per trade)
+- Size your lot so that the SL is less than **0.5% of your account** (or your defined max risk per trade)
 
 ---
 
@@ -115,17 +115,22 @@ You trade your own setups only. Following signals invalidates your edge data, br
 
 ---
 
-## Risk & Performance Parameters
+## ⚠️ A Personal Warning — Read Before Every Session
 
-| Parameter | Rule |
-|-----------|------|
-| Minimum RR | 1 : 1.5 |
-| Max SL | 40 pips |
-| Min TP | 60 pips |
-| BE trigger | +40 pips |
-| Scale-out target | 80–100 pips (50–75% of position) |
-| Max trades per day | 3 |
-| Risk per trade | 0.5% of account (or defined max) |
+On 28 May 2026, I removed my SL to avoid a $40 loss
+and turned it into a $1,200 loss across 22 positions
+on my 100K account — outside my session window,
+with no analysis and no confirmation.
+
+I knew it was wrong at position 2. I kept going anyway.
+
+Before I open this platform today I am asking myself:
+- Is this trade within 05:30–09:00 GMT?
+- Have I done my top-down analysis?
+- Is my SL set and will I let it hit if it hits?
+- Am I trading my strategy or my emotions?
+
+If I cannot answer yes to all four — I do not trade.
 
 ---
 
