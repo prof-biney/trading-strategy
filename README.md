@@ -20,9 +20,9 @@ This is a fully mechanical, top-down strategy built on Smart Money Concepts (SMC
 
 *Apply the Double Bias / Simi Theory framework before anything else.*
 
-- [ ] Mark Daily highs, lows, and key liquidity pools (double tops/bottoms, equal highs/lows, trendlines)
-- [ ] Mark FVGs, imbalances, and premium/discount zones on the Daily chart
-- [ ] Identify the **Daily target** — the draw on liquidity price is likely heading toward
+- [ ] Mark Daily highs, lows, and key liquidity pools (double tops/bottoms, equal highs/lows, trendlines).
+- [ ] Mark FVGs, imbalances, and premium/discount zones on the chart.
+- [ ] Identify the **Daily target** — the draw on liquidity price is likely heading toward.
 - [ ] Confirm bias alignment on **4H and 1H** (HTF directional bias)
 - [ ] **Only trade in the direction of this bias.** No counter-bias trades, ever.
 
@@ -51,7 +51,7 @@ This is a fully mechanical, top-down strategy built on Smart Money Concepts (SMC
 - Price at or **below 25% Fib** — premium entry, stronger confluence, preferred
 - **Do not enter a buy above 50% Fib. Do not enter a sell below 50% Fib.**
 
-### 3b — M1 OB 2.0 Confirmation is Present
+### 3b — M1 OB 2.0 Confirmation is Present (Very important for reversal trades)
 
 - Drop to the **M1 chart** and wait for an OB 2.0 pattern to form at or near the entry zone
 - The OB must align with the **HTF bias direction** — no counter-bias confirmations
@@ -59,8 +59,8 @@ This is a fully mechanical, top-down strategy built on Smart Money Concepts (SMC
 
 ### 3c — Risk Parameters Check
 
-- SL must be **≤ 40 pips** — if structure requires a wider stop, skip the trade
-- TP must be **≥ 60 pips** — minimum 1:1.5 RR, targeting the Daily liquidity draw
+- SL must be **≤ 50 pips** — if structure requires a wider stop, skip the trade
+- TP must be **≥ 100 pips** — minimum 1:1.5 RR, targeting the Daily liquidity draw
 - Set SL alert and BE alert **before executing** — no exceptions
 - Size your lot so that the SL is less than **0.5% of your account** (or your defined max risk per trade)
 
@@ -77,8 +77,8 @@ Use this before every single trade.
 | 3 | Setup marked out on TradingView | ☐ |
 | 4 | Price is at discount (≤ 50% Fib) or premium | ☐ |
 | 5 | M1 OB 2.0 confirmation present | ☐ |
-| 6 | SL ≤ 40 pips | ☐ |
-| 7 | TP ≥ 60 pips (min 1:1.5 RR) | ☐ |
+| 6 | SL ≤ 50 pips | ☐ |
+| 7 | TP ≥ 100 pips (min 1:1.5 RR) | ☐ |
 | 8 | No high-impact news within 30 minutes | ☐ |
 | 9 | Trade count today is under 3 | ☐ |
 
@@ -91,7 +91,7 @@ Use this before every single trade.
 *After entry, follow this exactly. No improvising.*
 
 1. **Immediately** set SL alert at your stop loss level
-2. Set **BE alert at +40 pips** — when triggered, manually move SL to entry price
+2. Set **BE alert at +50 pips** — when triggered, manually move SL to entry price
 3. At **80–100 pips profit**, close 50–75% of the position (major scale-out)
 4. Let the **runner** continue toward the Daily target with SL at breakeven
 5. Mark all potential levels ahead of price — **do not move TP prematurely**
@@ -137,10 +137,10 @@ If I cannot answer yes to all four — I do not trade.
 ## Mindset Reminders
 
 - A losing trade taken with **full rule compliance** is a good trade. A winning trade taken by **breaking your rules** is a dangerous one.
-- Your job is not to predict the market. Your job is to **execute your rules with precision** and let the edge play out over a large sample.
+- Your job is not to predict the market. Your job is to **execute your rules with precision** and let the edge play **out over a large sample.**
 - Missing a setup is never a reason to lower your criteria or force a trade. **There is always another one coming.**
 - Conviction is not built on belief — it is built on **documented evidence**. Log every trade.
 
 ---
 
-*Last updated: May 2026*
+*Last updated: June 2026*
