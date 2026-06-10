@@ -5,7 +5,7 @@
 **Instrument:** XAUUSD only  
 **Session:** 05:30 – 09:00 GMT  
 **Style:** Mechanical / Smart Money Concepts  
-**Max trades per day:** 2  
+**Max trades per day:** 3  
 **News trading:** Strictly prohibited
 
 ---
@@ -80,7 +80,7 @@ Use this before every single trade.
 | 6 | SL ≤ 50 pips | ☐ |
 | 7 | TP ≥ 100 pips (min 1:1.5 RR) | ☐ |
 | 8 | No high-impact news within 30 minutes | ☐ |
-| 9 | Trade count today is under 2 | ☐ |
+| 9 | Trade count today is under 3 | ☐ |
 
 **If any box is unchecked — there is no trade.**
 
@@ -107,8 +107,8 @@ Check FxFactory **before every session**. No entries within 30 minutes before or
 ### 🚫 Session only
 All trades must be **entered between 05:30 – 09:00 GMT**. No trades outside this window, even if a setup looks perfect.
 
-### 🚫 2 trades maximum per day
-Once 2 trades are taken — win or lose — the session is **closed**. Step away. No revenge trades. No "one more."
+### 🚫 3 trades maximum per day
+Once 3 trades are taken — win or lose — the session is **closed**. Step away. No revenge trades. No "one more."
 
 ### 🚫 No external signals, ever
 You trade your own setups only. Following signals invalidates your edge data, breaks your process, and removes your ability to build real conviction in your system.
